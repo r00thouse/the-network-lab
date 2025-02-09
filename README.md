@@ -6,13 +6,15 @@ We welcome contributions from the community! Whether you're a researcher, develo
 
 ## Structure
 
-Create a folder <username-or-nickname>-<start-year>-<name-of-project>
+Create a folder <username-or-nickname>-<start-year>-<name-of-project>:
+```
     ├── README.md         # Project overview and instructions
     ├── LICENSE           # License information
     ├── src/              # Source code directory
     └── docs/             # Documentation directory
+```
 
-we have created a script to generate a boilerplate.
+we have created a script to generate a boilerplate called `boilerplate.sh`.
 
 ## How to Contribute
 
